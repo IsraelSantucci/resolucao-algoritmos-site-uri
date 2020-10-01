@@ -2,6 +2,10 @@ package br.com.urionlinejudge.matematica;
 
 import java.util.Scanner;
 
+//Resolvido usando o Algoritmo de Euclides 
+//maneira mais eficiente de encontrar o MDC de dois numeros
+// "https://pt.wikipedia.org/wiki/Algoritmo_de_Euclides"
+
 public class URI1028 {
 
 	public static void main(String[] args) {
